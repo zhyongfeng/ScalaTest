@@ -5,5 +5,7 @@ object HelloWorld {
    */
   def main(args: Array[String]) {
     println("Hello World!") // 输出 Hello World!
+    val strHelloWorld  = "Hello, welcome to the Scala World2!"
+    println(strHelloWorld)
   }
 }
